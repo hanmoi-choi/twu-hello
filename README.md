@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HelloTWU
 ========
 
@@ -39,3 +40,9 @@ Navigate to http://localhost:8080 in a browser. You should see a hello message.
 Run ```./tools/ant/bin/ant test```
 
 This will trigger a functional test that will perform an automated test of the app with firefox. If everything goes well, you will see a "Build Successful" message in your terminal window after the tests are executed.
+=======
+twu-hello
+=========
+
+ThoughtWorks University Setting
+>>>>>>> 86fd664c5ae4056225ccbdacb4a323389365ba39
